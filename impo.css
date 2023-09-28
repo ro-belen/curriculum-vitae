@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.link{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 80px;
+  
+}
+.academicos{
+    color: palevioletred;
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.personales{
+
+ color: palevioletred;
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.laboral{
+    color: palevioletred;
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.perfil{
+    color: palevioletred;
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.carnet{
+    width: 200px;
+    border: 2px palevioletred;
+    border-radius: 2px;
+    border: 4px solid rgb(97, 4, 55);
+}
+.vitae{
+    width: 400px;
+    border: 2px palevioletred;
+    border-radius: 2px;
+    border: 4px solid rgb(138, 34, 128);
+}
